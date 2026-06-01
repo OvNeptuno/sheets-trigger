@@ -1,7 +1,7 @@
 const https = require('https');
 
 // REEMPLAZA CON LA URL DE TU WEB APP DE GOOGLE SHEETS
-const GOOGLE_SHEETS_URL = "TU_URL_DE_GOOGLE_APP_SCRIPT";
+const GOOGLE_SHEETS_URL = "https://script.google.com/macros/s/AKfycbyM53UIlZFDkXl1HaNo6NGXSIvjb_Q2zROA0VABP1a0wBzvNs29XrRJbT-u097fTBfS/exec";
 
 console.log("Despertador de Google Sheets iniciado...");
 
